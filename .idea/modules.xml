@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/recomovie.iml" filepath="$PROJECT_DIR$/.idea/modules/recomovie.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/recomovie.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/recomovie.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/core/recomovie.core.iml" filepath="$PROJECT_DIR$/.idea/modules/core/recomovie.core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/favorite/recomovie.favorite.iml" filepath="$PROJECT_DIR$/.idea/modules/favorite/recomovie.favorite.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">recomovie</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="image_description">image_movie</string>
+    <string name="text_primary">title</string>
+    <string name="text_releasedate">releasedate</string>
+    <string name="image_vote">vote</string>
+    <string name="text_vote">text vote</string>
+    <string name="vote_detail">Vote</string>
+    <string name="image_favorite">Icon Favorite</string>
+
+</resources>
