@@ -18,10 +18,19 @@ I developed Recomovie as final submission in Dicoding course "Menjadi Android De
 - Modularization
 - SSL Pinning
 
+![screenshot1](https://github.com/moha-sihab/recomovie-public/blob/main/app/src/main/res/drawable/display.png?raw=true)
+
+
 # How to run this app ?
 
 1. First of all, you must have API KEY from themoviedb.org , you can check how to get the API KEY from https://www.themoviedb.org/documentation/api
 2. After you get API KEY, just put API KEY in file build.gradle in core folder.
 
-![coregradle] (https://github.com/moha-sihab/image_source/blob/main/recomovie-buildgradle-core.jpg?raw=true)
+![coregraddle](https://github.com/moha-sihab/recomovie-public/blob/main/app/src/main/res/drawable/recomovie-buildgradle-core.jpg?raw=true)
 
+
+# Credit
+
+Thanks to sparrow007 for beautiful Carousel
+
+https://github.com/sparrow007/CarouselRecyclerview
