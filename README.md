@@ -20,5 +20,5 @@ I developed Recomovie as final submission in Dicoding course "Menjadi Android De
 1. First of all, you must have API KEY from themoviedb.org , you can check how to get the API KEY from https://www.themoviedb.org/documentation/api
 2. After you get API KEY, just put API KEY in file build.gradle in core folder.
 
-![build gradle core] (https://github.com/moha-sihab/image_source/blob/main/recomovie-buildgradle-core.jpg?raw=true)
+![coregradle] (https://github.com/moha-sihab/image_source/blob/main/recomovie-buildgradle-core.jpg?raw=true)
 
